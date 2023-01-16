@@ -420,6 +420,8 @@ Module.register("Gateway", {
       Tr["EXT-Detector_Engine"] = this.translate("VAL_EXT-Detector_Engine")
       Tr["EXT-Detector_Keyword"] = this.translate("VAL_EXT-Detector_Keyword")
       Tr["EXT-Detector_Sensitivity"] = this.translate("VAL_EXT-Detector_Sensitivity")
+      Tr["EXT-Detector_AccessKey"] = this.translate("VAL_EXT-Detector_AccessKey")
+      Tr["EXT-Detector_CustomModel"] = this.translate("VAL_EXT-Detector_CustomModel")
       Tr["EXT-GooglePhotos_Type"] = this.translate("VAL_EXT-GooglePhotos_Type")
       Tr["EXT-GooglePhotos_Delay"] = this.translate("VAL_EXT-GooglePhotos_Delay")
       Tr["EXT-GooglePhotos_Infos"] = this.translate("VAL_EXT-GooglePhotos_Infos")
